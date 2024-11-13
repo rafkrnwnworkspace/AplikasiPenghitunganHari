@@ -74,7 +74,7 @@ public class PerhitunganHari extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setFont(new java.awt.Font("Bahnschrift", 0, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         jLabel1.setText("Pilih Bulan ");
 
         jLabel2.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
