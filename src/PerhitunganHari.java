@@ -7,6 +7,9 @@ public class PerhitunganHari extends javax.swing.JFrame {
 
     public PerhitunganHari() {
         initComponents();
+        setTitle("Aplikasi Perhitungan Hari");
+        setLocationRelativeTo(null);
+        setResizable(false);
     }
 
     private String getNamaHariIndonesia(java.time.DayOfWeek dayOfWeek) {
